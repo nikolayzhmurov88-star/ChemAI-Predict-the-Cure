@@ -1,14 +1,10 @@
 # ChemAI: Predict the Cure
 
-## Результат
-**Лучший скор на Kaggle: 300.22222**
-
----
 
 ## Запуск решения
 
 1. Открыть Google Colab
-2. Загрузить файл `chemai_solution.ipynb`
+2. Загрузить файл `chemai.ipynb`
 3. Нажать Run all
 
 ---
